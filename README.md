@@ -1,0 +1,2 @@
+# JavaNativeSocket
+JNI Local Socket
